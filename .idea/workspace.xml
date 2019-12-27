@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ca72279-d4a9-42e7-898d-56484b979914" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VZy4FGsxtKi7T2DpDqGU1uj1qZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.TwitterGetAuto.TwitterGet">
+    <configuration name="AutomationAPI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.api.teaching" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutomationAPI" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationAPI.getTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.api.teaching" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutomationAPI" />
+      <option name="METHOD_NAME" value="getTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationAPI.getsingleuser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.api.teaching" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutomationAPI" />
+      <option name="METHOD_NAME" value="getsingleuser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterGetAuto.TwitterGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.api.teaching" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TwitterGetAuto" />
+      <option name="METHOD_NAME" value="TwitterGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TwitterGetAuto.TwitterGet" />
+        <item itemvalue="JUnit.AutomationAPI.getsingleuser" />
+        <item itemvalue="JUnit.AutomationAPI" />
+        <item itemvalue="JUnit.AutomationAPI.getTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ca72279-d4a9-42e7-898d-56484b979914" name="Default Changelist" comment="" />
+      <created>1577474718310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577474718310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1236" height="185" key="GridCell.Tab.0.bottom" timestamp="1577478844781">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="185" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1577478844781" />
+    <state width="1236" height="185" key="GridCell.Tab.0.center" timestamp="1577478844781">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="185" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1577478844781" />
+    <state width="1236" height="185" key="GridCell.Tab.0.left" timestamp="1577478844780">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="185" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1577478844780" />
+    <state width="1236" height="185" key="GridCell.Tab.0.right" timestamp="1577478844781">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="185" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1577478844781" />
+  </component>
+</project>
